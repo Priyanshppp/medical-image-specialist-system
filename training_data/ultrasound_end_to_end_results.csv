@@ -1,0 +1,21 @@
+query_id,ground_truth,prediction_letter,prediction_text,correct
+OMNI_007002,gallbladder,D,Thyroid gland,False
+OMNI_007003,liver,B,liver,True
+OMNI_007006,gallbladder,B,gallbladder,True
+OMNI_007016,thyroid,D,thyroid,True
+OMNI_007026,pancreas,D,pancreas,True
+OMNI_007029,kidney,D,kidney,True
+OMNI_007030,Ultrasound,A,Ultrasound,True
+OMNI_007034,liver,A,liver,True
+OMNI_007035,spleen,A,spleen,True
+OMNI_007041,thyroid,B,thyroid,True
+OMNI_007042,gallbladder,C,gallbladder,True
+OMNI_007043,fibroid,B,fibroid,True
+OMNI_007047,pancreas,B,pancreas,True
+OMNI_007062,fibroid,D,fibroid,True
+OMNI_007069,gallbladder,A,Ovary,False
+OMNI_007073,inferior vena cava,D,Bladder,False
+OMNI_007079,gallbladder,B,gallbladder,True
+OMNI_007080,Ultrasound,C,Ultrasound,True
+OMNI_007081,kidney,D,kidney,True
+OMNI_007093,aorta,C,aorta,True

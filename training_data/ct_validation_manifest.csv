@@ -1,0 +1,21 @@
+query_id,image,Question,Option_A,Option_B,Option_C,Option_D,answer,source_dataset,original_question_id,modality
+OMNI_000006,Images/000006.png,What method is employed to acquire this picture?,MRI,Angiography,X-ray,CT,CT,RadImageNet,RadImageNet_0296,CT
+OMNI_000016,Images/000016.png,Does this image show any obvious abnormalities?,No,Yes.,,,No,RadImageNet,RadImageNet_9897,CT
+OMNI_000017,Images/000017.png,Is there any apparent irregularity evident in this image?,Yes.,No,,,No,RadImageNet,RadImageNet_10629,CT
+OMNI_000020,Images/000020.png,What is the term used to describe the anomaly observed in this image?,Kidney tumor,Pancreatic inflammation,Prostate lesion,Bladder stone,Prostate lesion,RadImageNet,RadImageNet_12653,CT
+OMNI_000029,Images/000029.png,What is the abnormality present in the image?,Airspace opacity,Pleural effusion,Nodule formation,Pulmonary embolism,Airspace opacity,RadImageNet,RadImageNet_2176,CT
+OMNI_000033,Images/000033.png,What medical condition is indicated by the abnormality in the image?,Pneumothorax,Ascites,Pulmonary embolism,Pleural effusion,Ascites,RadImageNet,RadImageNet_5249,CT
+OMNI_000036,Images/000036.png,What type of abnormality is visible in this image?,Muscle spasm,Tumor necrosis,Soft tissue mass,Enlarged lymph node,Soft tissue mass,RadImageNet,RadImageNet_13298,CT
+OMNI_000037,Images/000037.png,Is there any anomaly seen in this image?,No,Yes.,,,No,RadImageNet,RadImageNet_8242,CT
+OMNI_000042,Images/000042.png,What imaging technique is utilized to produce this scan?,CT,Ultrasound,Positron emission tomography (PET),Angiography,CT,RadImageNet,RadImageNet_0582,CT
+OMNI_000048,Images/000048.png,What is the abnormality present in the image?,Abnormal entire organ,Normal surrounding tissue,Abnormal structure within the organ,Normal function of the organ,Abnormal entire organ,RadImageNet,RadImageNet_4825,CT
+OMNI_000056,Images/000056.png,By what means was this image captured?,CT,Angiography,Nuclear medicine scan,X-ray,CT,RadImageNet,RadImageNet_1097,CT
+OMNI_000060,Images/000060.png,What is the abnormality present in the image?,Intestinal pathology,Lung pathology,Thyroid pathology,Adrenal pathology,Adrenal pathology,RadImageNet,RadImageNet_4984,CT
+OMNI_000062,Images/000062.png,Is there any noticeable anomaly present in this picture?,Yes.,No,,,No,RadImageNet,RadImageNet_8599,CT
+OMNI_000065,Images/000065.png,What abnormal finding is visible in the radiograph?,Abnormal growth on the organ,Normal growth on the organ,Abnormal entire organ,Abnormal surrounding tissue,Abnormal entire organ,RadImageNet,RadImageNet_4788,CT
+OMNI_000074,Images/000074.png,What type of abnormality is visible in this image?,Hematological lesion,Renal lesion,Neurological lesion,Gastrointestinal lesion,Renal lesion,RadImageNet,RadImageNet_13132,CT
+OMNI_000079,Images/000079.png,What is the abnormality present in the image?,Nodule,Tumor,Lesion,Inflammation,Nodule,RadImageNet,RadImageNet_4020,CT
+OMNI_000086,Images/000086.png,Do you see any visible abnormalities in this image?,No,Yes.,,,No,RadImageNet,RadImageNet_8470,CT
+OMNI_000089,Images/000089.jpg,Is there anything abnormal seen in this image?,No.,Yes,,,No.,Covid CT,Covid CT_0158,CT
+OMNI_000098,Images/000098.png,Is this CT scan image indicative of COVID-19?,Yes,No,,,No,SARS-CoV-2 CT-scan,SARS-CoV-2 CT-scan_0751,CT
+OMNI_000099,Images/000099.png,What is depicted in the image that is not within the normal range?,Intestinal abnormality,Liver abnormality,Bowel abnormality,Kidney abnormality,Bowel abnormality,RadImageNet,RadImageNet_6049,CT

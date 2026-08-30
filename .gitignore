@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated models
+models/*.joblib
+
+# Generated extracted features
+training_data/*_features.pkl
+
+# Generated evaluation results
+results/
+training_data/*_candidate_selection_results.csv
+
+# Do not upload answer keys
+test_data/answer_key.csv

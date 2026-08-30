@@ -1,0 +1,21 @@
+query_id,image,Question,Option_A,Option_B,Option_C,Option_D,answer,source_dataset,original_question_id,modality
+OMNI_004004,Images/004004.jpg,What type of abnormality is present in this image?,Vascular,Autoimmune,Inflammatory.,Metabolic,Inflammatory.,Fitzpatrick 17k,Fitzpatrick 17k_0302,Dermatology
+OMNI_004010,Images/004010.jpg,What is the specific diagnosis of the skin abnormality shown in this image?,Eczema,Basal cell carcinoma,Squamous cell carcinoma,Vitiligo,Basal cell carcinoma,ISIC2019,ISIC2019_1072,Dermatology
+OMNI_004013,Images/004013.jpg,What specific skin condition is visible in this picture?,Basal cell carcinoma,Melanoma,Psoriasis,Squamous cell carcinoma,Basal cell carcinoma,ISIC2019,ISIC2019_1216,Dermatology
+OMNI_004029,Images/004029.jpg,What does this dermoscopic image suggest in terms of the condition being malignant or benign?,Inflammatory condition.,Malignant condition.,Pre-cancerous condition.,Benign condition.,Malignant condition.,ISBI2016,ISBI2016_0632,Dermatology
+OMNI_004042,Images/004042.jpg,Does the abnormality in this image represent a benign condition or a malignant condition?,Benign image.,Malignant,,,Benign image.,ISIC2020,ISIC2020_1157,Dermatology
+OMNI_004050,Images/004050.jpg,What is the specific condition shown in the image related to the skin?,Eczema,Basal cell carcinoma,Psoriasis,Melanocytic nevus,Melanocytic nevus,ISIC2019,ISIC2019_0912,Dermatology
+OMNI_004053,Images/004053.jpg,Does this image reveal a benign or malignant abnormality?,Benign image.,Malignant,,,Benign image.,ISIC2020,ISIC2020_1429,Dermatology
+OMNI_004060,Images/004060.jpg,Is the anomaly in this picture indicative of being benign or malignant?,Malignant,Benign image.,,,Benign image.,ISIC2020,ISIC2020_1433,Dermatology
+OMNI_004061,Images/004061.jpg,What classification does this abnormality fall under?,Genetic,Inflammatory.,Neoplastic,Endocrine,Inflammatory.,Fitzpatrick 17k,Fitzpatrick 17k_0640,Dermatology
+OMNI_004063,Images/004063.jpg,Is the image's abnormality considered benign or malignant?,Benign image.,Malignant,,,Benign image.,ISIC2020,ISIC2020_1188,Dermatology
+OMNI_004066,Images/004066.jpg,What specific condition is displayed in this image of the skin?,Melanoma,Shingles,Cellulitis,Ringworm,Melanoma,ISIC2019,ISIC2019_0487,Dermatology
+OMNI_004067,Images/004067.jpg,Does this dermoscopic image show a benign or malignant condition?,Traumatic condition.,Metabolic condition.,Malignant condition.,Indeterminate condition.,Malignant condition.,ISBI2016,ISBI2016_0628,Dermatology
+OMNI_004069,Images/004069.jpg,What specific abnormality is present in this image? Can you provide a brief overview of this disease?,Smallpox,Tuberculosis,Polio,Measles,Smallpox,Monkeypox Skin Image 2022,Monkeypox Skin Image 2022_0143,Dermatology
+OMNI_004071,Images/004071.jpg,Does this image indicate a benign or malignant condition?,Benign image.,Malignant,,,Benign image.,ISIC2020,ISIC2020_0884,Dermatology
+OMNI_004077,Images/004077.jpg,"In this image, what is the name of the specific category of abnormality?",Hematodermatosis,Genodermatoses.,Pulmonodermatitis,Dermatofibromatosis,Genodermatoses.,Fitzpatrick 17k,Fitzpatrick 17k_1098,Dermatology
+OMNI_004082,Images/004082.jpg,What is the specific classification of the anomaly in this image?,Lymphodermatosis,Gastrodermatitis,Genodermatoses.,Oculodermatitis,Genodermatoses.,Fitzpatrick 17k,Fitzpatrick 17k_1106,Dermatology
+OMNI_004083,Images/004083.jpg,Does the image in question display a benign or malignant abnormality?,Malignant,Benign image.,,,Benign image.,ISIC2020,ISIC2020_0869,Dermatology
+OMNI_004086,Images/004086.jpg,Is the anomaly in this picture indicative of benign or malignant?,Malignant,Benign image.,,,Benign image.,ISIC2020,ISIC2020_0385,Dermatology
+OMNI_004090,Images/004090.jpg,Is this image indicating a non-cancerous lesion?,Yes,No.,,,Yes,ISBI2016,ISBI2016_0318,Dermatology
+OMNI_004095,Images/004095.jpg,Which specific category does this image's abnormality fall into?,Pulmonodermatitis,Gastrodermatitis,Osteodermatitis,Genodermatoses.,Genodermatoses.,Fitzpatrick 17k,Fitzpatrick 17k_1004,Dermatology

@@ -1,0 +1,9 @@
+modality,samples,correct,accuracy
+Fundus,20,2,10.0
+OCT,20,2,10.0
+Microscopy,20,4,20.0
+Ultrasound,20,4,20.0
+X-ray,20,4,20.0
+MRI,20,6,30.0
+Dermatology,20,8,40.0
+CT,20,9,45.0

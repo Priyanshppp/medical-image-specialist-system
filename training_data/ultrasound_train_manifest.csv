@@ -1,0 +1,61 @@
+query_id,image,Question,Option_A,Option_B,Option_C,Option_D,answer,source_dataset,original_question_id,modality
+OMNI_007001,Images/007001.png,What part is shown in this ultrasound image?,Lung,gallbladder,Cerebellum,Small intestine,gallbladder,RadImageNet,RadImageNet_17172,Ultrasound
+OMNI_007005,Images/007005.png,What type of imaging was utilized to obtain this picture?,Electronystagmography (ENG),Near-infrared Spectroscopy (NIRS),Ultrasound,Elastography,Ultrasound,RadImageNet,RadImageNet_14020,Ultrasound
+OMNI_007007,Images/007007.png,What is the organ depicted in this ultrasound image?,Prostate gland,kidney,Large intestine,Spleen,kidney,RadImageNet,RadImageNet_18782,Ultrasound
+OMNI_007008,Images/007008.png,What part is shown in this ultrasound image?,Intestine,liver,Lung,Gallbladder,liver,RadImageNet,RadImageNet_19600,Ultrasound
+OMNI_007009,Images/007009.png,What part is shown in this ultrasound image?,Prostate,Joint,thyroid,Ovaries,thyroid,RadImageNet,RadImageNet_22327,Ultrasound
+OMNI_007010,Images/007010.png,What part is shown in this ultrasound image?,Esophagus,Testis,Pancreas,gallbladder,gallbladder,RadImageNet,RadImageNet_17026,Ultrasound
+OMNI_007011,Images/007011.png,What part is shown in this ultrasound image?,kidney,Ovary,Esophagus,Gallbladder,kidney,RadImageNet,RadImageNet_18822,Ultrasound
+OMNI_007012,Images/007012.png,What part is shown in this ultrasound image?,pancreas,Spleen,Testicle,Stomach,pancreas,RadImageNet,RadImageNet_21349,Ultrasound
+OMNI_007014,Images/007014.png,What part is shown in this ultrasound image?,Uterus,Femoral artery,Kidney,aorta,aorta,RadImageNet,RadImageNet_15454,Ultrasound
+OMNI_007015,Images/007015.png,Which structure is being displayed in this ultrasound image?,Esophagus,ovary,Pancreas,Intestine,ovary,RadImageNet,RadImageNet_20207,Ultrasound
+OMNI_007018,Images/007018.png,What structure is being depicted in this ultrasound image?,Iliac artery,Appendix,common bile duct,Urinary bladder,common bile duct,RadImageNet,RadImageNet_16061,Ultrasound
+OMNI_007020,Images/007020.png,What is the structure depicted in this ultrasound image?,Ovarian cyst,Cervical lymphadenopathy,Pancreatic mass,thyroid nodule,thyroid nodule,RadImageNet,RadImageNet_23773,Ultrasound
+OMNI_007021,Images/007021.png,What part is shown in this ultrasound image?,Testicles,Appendix,Intestines,thyroid,thyroid,RadImageNet,RadImageNet_23147,Ultrasound
+OMNI_007022,Images/007022.png,What does this sonogram depict?,Bladder,Ovary,kidney,Gallbladder,kidney,RadImageNet,RadImageNet_17905,Ultrasound
+OMNI_007023,Images/007023.png,What is the structure visible in this ultrasound image?,Liver hemangioma,Appendicitis,thyroid nodule,Hepatic hemangioma,thyroid nodule,RadImageNet,RadImageNet_23444,Ultrasound
+OMNI_007024,Images/007024.png,What part is shown in this ultrasound image?,Liver,Prostate,kidney,Stomach,kidney,RadImageNet,RadImageNet_18445,Ultrasound
+OMNI_007025,Images/007025.png,What is being depicted in this ultrasound image?,Hepatic tumor,Adrenal adenoma,Testicular mass,thyroid nodule,thyroid nodule,RadImageNet,RadImageNet_23959,Ultrasound
+OMNI_007027,Images/007027.png,What part is shown in this ultrasound image?,Brain,kidney,Adrenal gland,Appendix,kidney,RadImageNet,RadImageNet_18420,Ultrasound
+OMNI_007028,Images/007028.png,What is being depicted in this ultrasound image?,aorta,Cecum,Intestines,Cervix,aorta,RadImageNet,RadImageNet_14814,Ultrasound
+OMNI_007032,Images/007032.png,What is the structure identified in this ultrasound image?,Right atrium,Ureter,Renal Artery,portal vein,portal vein,RadImageNet,RadImageNet_21720,Ultrasound
+OMNI_007033,Images/007033.png,What part is shown in this ultrasound image?,Stomach,Lung,Uterus,kidney,kidney,RadImageNet,RadImageNet_17953,Ultrasound
+OMNI_007037,Images/007037.png,What part is shown in this ultrasound image?,Heart,Tonsils,Pancreas,liver,liver,RadImageNet,RadImageNet_19857,Ultrasound
+OMNI_007038,Images/007038.png,What part is shown in this ultrasound image?,gallbladder,Esophagus,Bladder,Testicle,gallbladder,RadImageNet,RadImageNet_17235,Ultrasound
+OMNI_007040,Images/007040.png,What part is shown in this ultrasound image?,Testes,liver,Bladder,Lung,liver,RadImageNet,RadImageNet_19651,Ultrasound
+OMNI_007044,Images/007044.png,What part is shown in this ultrasound image?,pancreas,Kidney,Prostate,Testicle,pancreas,RadImageNet,RadImageNet_21050,Ultrasound
+OMNI_007046,Images/007046.png,What part is shown in this ultrasound image?,kidney,Stomach,Testis,Brain,kidney,RadImageNet,RadImageNet_18937,Ultrasound
+OMNI_007048,Images/007048.png,What is the structure depicted in this ultrasound image?,Aortic aneurysm,Intestinal lymphoma,Hepatic cyst,thyroid nodule,thyroid nodule,RadImageNet,RadImageNet_24158,Ultrasound
+OMNI_007049,Images/007049.png,What is being displayed in this ultrasound image?,ovary,Prostate gland,Intestine,Bone,ovary,RadImageNet,RadImageNet_20776,Ultrasound
+OMNI_007050,Images/007050.png,What structure is being displayed in this ultrasound image?,Heart,Uterus,Gallbladder,ovary,ovary,RadImageNet,RadImageNet_20458,Ultrasound
+OMNI_007051,Images/007051.png,What part is shown in this ultrasound image?,Rectum,Ovary,Prostate gland,pancreas,pancreas,RadImageNet,RadImageNet_20971,Ultrasound
+OMNI_007052,Images/007052.png,Which structure is visible in this ultrasound image?,Thyroid Gland,Adrenal gland,aorta,Common bile duct,aorta,RadImageNet,RadImageNet_15094,Ultrasound
+OMNI_007053,Images/007053.png,What is being displayed in this ultrasound image?,Appendix,Muscle tissue,thyroid,Brain,thyroid,RadImageNet,RadImageNet_22813,Ultrasound
+OMNI_007055,Images/007055.png,What type of imaging modality was utilized to obtain this image?,Photoacoustic Imaging,Electroencephalography (EEG),Magnetoencephalography (MEG),Ultrasound,Ultrasound,RadImageNet,RadImageNet_14229,Ultrasound
+OMNI_007056,Images/007056.png,What structure is being depicted in this ultrasound image?,Rectum,Muscle tissue,Prostate gland,ovary,ovary,RadImageNet,RadImageNet_20331,Ultrasound
+OMNI_007057,Images/007057.png,What part is shown in this ultrasound image?,Lungs,Left Ventricular Chamber,Thyroid,aorta,aorta,RadImageNet,RadImageNet_14891,Ultrasound
+OMNI_007059,Images/007059.png,What is the organ visible in this ultrasound image?,Heart,bladder,Lung,Trachea,bladder,RadImageNet,RadImageNet_15581,Ultrasound
+OMNI_007060,Images/007060.png,What part is shown in this ultrasound image?,Spleen,kidney,Testis,Bladder,kidney,RadImageNet,RadImageNet_18450,Ultrasound
+OMNI_007063,Images/007063.png,What is being depicted in this ultrasound image?,Bladder,Muscle tissue,ovary,Pancreas,ovary,RadImageNet,RadImageNet_20198,Ultrasound
+OMNI_007064,Images/007064.png,What is the organ depicted in this ultrasound image?,Heart,Lung,Femur,thyroid,thyroid,RadImageNet,RadImageNet_23056,Ultrasound
+OMNI_007065,Images/007065.png,What is the organ depicted in this ultrasound image?,Large intestine,Uterus,gallbladder,Appendix,gallbladder,RadImageNet,RadImageNet_16950,Ultrasound
+OMNI_007066,Images/007066.png,What is the organ depicted in this ultrasound image?,pancreas,Appendix,Pituitary gland,Gallbladder,pancreas,RadImageNet,RadImageNet_21391,Ultrasound
+OMNI_007068,Images/007068.png,Which structure is visible in this ultrasound image?,ovary,Esophagus,Brain,Spleen,ovary,RadImageNet,RadImageNet_20792,Ultrasound
+OMNI_007072,Images/007072.png,What part is shown in this ultrasound image?,Testis,Small intestine,gallbladder,Pancreas,gallbladder,RadImageNet,RadImageNet_17129,Ultrasound
+OMNI_007075,Images/007075.png,What part is shown in this ultrasound image?,Ovary,pancreas,Testicle,Large intestine,pancreas,RadImageNet,RadImageNet_21310,Ultrasound
+OMNI_007076,Images/007076.png,What type of imaging was used to obtain this image?,DEXA,Elastography,Ultrasound,Bioluminescence Imaging,Ultrasound,RadImageNet,RadImageNet_14000,Ultrasound
+OMNI_007077,Images/007077.png,What is being depicted in this ultrasound image?,Lungs,Rectum,Ovaries,thyroid,thyroid,RadImageNet,RadImageNet_22770,Ultrasound
+OMNI_007078,Images/007078.png,What is depicted in this ultrasound image?,thyroid nodule,Cardiac thrombus,Appendicular abscess,Hepatic lesion,thyroid nodule,RadImageNet,RadImageNet_23890,Ultrasound
+OMNI_007082,Images/007082.png,What is the structure depicted in this ultrasound image?,Appendix,Spleen,Lung,portal vein,portal vein,RadImageNet,RadImageNet_21719,Ultrasound
+OMNI_007083,Images/007083.png,What part is shown in this ultrasound image?,Heart,Testicle,Pancreas,kidney,kidney,RadImageNet,RadImageNet_18311,Ultrasound
+OMNI_007084,Images/007084.png,What part is shown in this ultrasound image?,kidney,Muscle,Lung,Uterus,kidney,RadImageNet,RadImageNet_18095,Ultrasound
+OMNI_007085,Images/007085.png,What modality was utilized to acquire this image?,Bone Densitometry,Ultrasound,Electron Microscopy,Digital Subtraction Angiography (DSA),Ultrasound,RadImageNet,RadImageNet_14163,Ultrasound
+OMNI_007087,Images/007087.png,What structure is being depicted in this ultrasound image?,Thyroid gland,common bile duct,Colon,Spleen,common bile duct,RadImageNet,RadImageNet_16344,Ultrasound
+OMNI_007090,Images/007090.png,What is the structure depicted in this ultrasound image?,Intestinal polyp,fibroid,Pulmonary embolism,Breast tissue,fibroid,RadImageNet,RadImageNet_16811,Ultrasound
+OMNI_007092,Images/007092.png,What part is shown in this ultrasound image?,spleen,Testicle,Esophagus,Adrenal gland,spleen,RadImageNet,RadImageNet_21821,Ultrasound
+OMNI_007094,Images/007094.png,What is visualized in this ultrasound image?,Myocardial infarction,thyroid nodule,Hepatic cyst,Splenomegaly,thyroid nodule,RadImageNet,RadImageNet_23380,Ultrasound
+OMNI_007095,Images/007095.png,What part is shown in this ultrasound image?,Small intestine,common bile duct,Ureter,Pituitary gland,common bile duct,RadImageNet,RadImageNet_15699,Ultrasound
+OMNI_007097,Images/007097.png,What part is shown in this ultrasound image?,Testicle,Large intestine,pancreas,Heart,pancreas,RadImageNet,RadImageNet_21540,Ultrasound
+OMNI_007098,Images/007098.png,What structure is being depicted in this ultrasound image?,common bile duct,Large intestine,Appendix,Inferior vena cava,common bile duct,RadImageNet,RadImageNet_15837,Ultrasound
+OMNI_007099,Images/007099.png,What is the organ being depicted in this ultrasound image?,thyroid,Muscle,Pancreas,Intestine,thyroid,RadImageNet,RadImageNet_22856,Ultrasound
+OMNI_007100,Images/007100.png,What is being depicted in this ultrasound image?,Spleen,Bladder,Cecum,aorta,aorta,RadImageNet,RadImageNet_14906,Ultrasound

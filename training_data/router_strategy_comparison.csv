@@ -1,0 +1,8 @@
+strategy,threshold,accuracy,low_confidence,text_overrides
+pure_visual,,0.86875,0.0,0
+hybrid_0.5,0.5,0.85625,30.0,5
+hybrid_0.55,0.55,0.8375,47.0,10
+hybrid_0.6,0.6,0.83125,58.0,14
+hybrid_0.65,0.65,0.825,66.0,19
+hybrid_0.7,0.7,0.825,79.0,22
+always_strong_text,,0.78125,,50

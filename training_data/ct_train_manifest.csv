@@ -1,0 +1,61 @@
+query_id,image,Question,Option_A,Option_B,Option_C,Option_D,answer,source_dataset,original_question_id,modality
+OMNI_000001,Images/000001.png,Is there any discernible anomaly seen in this image?,Yes.,No,,,No,RadImageNet,RadImageNet_9869,CT
+OMNI_000004,Images/000004.png,Is there any abnormal finding apparent in this image?,No,Yes.,,,No,RadImageNet,RadImageNet_10397,CT
+OMNI_000005,Images/000005.png,Is there any abnormal finding observed in this image?,Yes.,No,,,No,RadImageNet,RadImageNet_9382,CT
+OMNI_000007,Images/000007.png,What abnormal finding is depicted in this radiograph?,Heart abnormality,Kidney abnormality,Intestinal abnormality,Bowel abnormality,Bowel abnormality,RadImageNet,RadImageNet_5838,CT
+OMNI_000008,Images/000008.png,Is there any visible anomaly observed in this image?,No,Yes.,,,No,RadImageNet,RadImageNet_10542,CT
+OMNI_000009,Images/000009.png,What is the term for the anomaly seen in the picture?,Nodule,Mass,Lesion,Hematoma,Nodule,RadImageNet,RadImageNet_3935,CT
+OMNI_000010,Images/000010.png,What abnormal finding is depicted in the radiographic image?,Nodule formation,Pleural effusion,Lung consolidation,Airspace opacity,Airspace opacity,RadImageNet,RadImageNet_2343,CT
+OMNI_000011,Images/000011.png,What abnormal finding is depicted in the radiographic image?,Dermatological pathology,Venous pathology,Osseous pathology,Arterial pathology,Arterial pathology,RadImageNet,RadImageNet_5165,CT
+OMNI_000012,Images/000012.png,What specific abnormality is present in this image?,SARS (Severe Acute Respiratory Syndrome),Pulmonary embolism,Lung cancer,COVID-19 infection.,COVID-19 infection.,Covid CT,Covid CT_0124,CT
+OMNI_000013,Images/000013.png,"In capturing this image, what modality is employed?",X-ray,PET scan,CT,MRI,CT,RadImageNet,RadImageNet_0389,CT
+OMNI_000014,Images/000014.png,Can any irregularities be detected in this picture?,No,Yes.,,,No,RadImageNet,RadImageNet_9904,CT
+OMNI_000018,Images/000018.png,Does this CT scan image suggest COVID-19?,No,Yes,,,No,SARS-CoV-2 CT-scan,SARS-CoV-2 CT-scan_0714,CT
+OMNI_000019,Images/000019.png,What can be observed in the image that is considered an abnormality?,Abscess,Polyp,Nodule,Growth,Nodule,RadImageNet,RadImageNet_4539,CT
+OMNI_000023,Images/000023.png,What kind of anomaly is depicted in this image?,Osseous neoplasm,Muscular dystrophy,Gastrointestinal bleeding,Endocrine dysfunction,Osseous neoplasm,RadImageNet,RadImageNet_11807,CT
+OMNI_000025,Images/000025.png,What imaging technique is employed in capturing this picture?,Nuclear medicine scan,Mammogram,Positron emission tomography (PET),CT,CT,RadImageNet,RadImageNet_1736,CT
+OMNI_000026,Images/000026.png,What is the presence in the image that deviates from normal?,Swelling,Nodule,Hematoma,Mass,Nodule,RadImageNet,RadImageNet_4129,CT
+OMNI_000027,Images/000027.png,What can be identified as being abnormal in the image?,Lung abnormality,Bladder abnormality,Bowel abnormality,Intestinal abnormality,Bowel abnormality,RadImageNet,RadImageNet_5714,CT
+OMNI_000028,Images/000028.png,Do you notice any anomaly present in this image?,Yes.,No,,,No,RadImageNet,RadImageNet_9218,CT
+OMNI_000031,Images/000031.png,Is there any obvious sign of irregularity in this image?,No,Yes.,,,No,RadImageNet,RadImageNet_10946,CT
+OMNI_000032,Images/000032.png,What abnormal finding is depicted in the radiograph?,Pericardial effusion,Ascites,Appendicitis,Pneumothorax,Ascites,RadImageNet,RadImageNet_5336,CT
+OMNI_000034,Images/000034.png,What is the presence that is not normal in the image?,Airspace opacity,Nodule formation,Atelectasis,Pleural effusion,Airspace opacity,RadImageNet,RadImageNet_2523,CT
+OMNI_000035,Images/000035.png,What abnormal finding is identified in this radiographic image?,Nodule,Inflammation,Hematoma,Swelling,Nodule,RadImageNet,RadImageNet_4018,CT
+OMNI_000039,Images/000039.png,What is the visibility of any abnormalities in this image?,Yes.,No,,,No,RadImageNet,RadImageNet_11003,CT
+OMNI_000040,Images/000040.png,What type of abnormality is present in this image?,Spleen lesion,Heart lesion,Pancreatic lesion,Liver lesion,Liver lesion,RadImageNet,RadImageNet_8160,CT
+OMNI_000041,Images/000041.png,What kind of anomaly is being observed in this picture?,Soft tissue inflammation,Respiratory infection,Osseous neoplasm,Muscular dystrophy,Osseous neoplasm,RadImageNet,RadImageNet_11780,CT
+OMNI_000043,Images/000043.png,What is the abnormality present in the image?,Lymphatic pathology,Arterial pathology,Respiratory pathology,Endocrine pathology,Arterial pathology,RadImageNet,RadImageNet_5187,CT
+OMNI_000044,Images/000044.png,What is the specific abnormality in this image?,Bronchiectasis,Interstitial lung disease,Pulmonary hypertension,Pulmonary embolism,Interstitial lung disease,RadImageNet,RadImageNet_7472,CT
+OMNI_000045,Images/000045.png,What type of imaging technique is utilized to obtain this visual representation?,Nuclear medicine scan,Fluoroscopy,X-ray,CT,CT,RadImageNet,RadImageNet_1311,CT
+OMNI_000046,Images/000046.png,Is this CT image indicative of a patient being infected by cancer?,No,Yes.,,,No,Chest CT Scan,Chest CT Scan_0568,CT
+OMNI_000047,Images/000047.png,What is the specific condition depicted in this image?,Pulmonary embolism,Tuberculosis,Influenza,COVID-19 infection.,COVID-19 infection.,SARS-CoV-2 CT-scan,SARS-CoV-2 CT-scan_0336,CT
+OMNI_000049,Images/000049.png,What abnormal finding is indicated in the picture?,Bowel inflammation,Liver cirrhosis,Stomach ulcer,Eye infection,Bowel inflammation,RadImageNet,RadImageNet_6241,CT
+OMNI_000050,Images/000050.png,Is everything in this image within normal parameters?,No,Yes.,,,No,RadImageNet,RadImageNet_10673,CT
+OMNI_000051,Images/000051.png,What is the abnormal finding in the image?,Scar formation,Organ enlargement,Cellular hyperplasia,Parenchyma destruction,Parenchyma destruction,RadImageNet,RadImageNet_4629,CT
+OMNI_000054,Images/000054.png,What is the nature of the anomaly observed in this image?,Post-operative changes,Inflammation,Genetic mutation,Infection,Post-operative changes,RadImageNet,RadImageNet_12552,CT
+OMNI_000055,Images/000055.png,What imaging technique was used to produce this scan?,MRI,CT,Positron emission tomography (PET),PET scan,CT,RadImageNet,RadImageNet_0909,CT
+OMNI_000057,Images/000057.png,What imaging technique is used to produce this image?,CT,Ultrasound,Fluoroscopy,X-ray,CT,SARS-CoV-2 CT-scan,SARS-CoV-2 CT-scan_0008,CT
+OMNI_000058,Images/000058.png,Which abnormality is visible in the image?,Bowel abnormality,Bone abnormality,Heart abnormality,Bladder abnormality,Bowel abnormality,RadImageNet,RadImageNet_6106,CT
+OMNI_000059,Images/000059.png,Is there any aberration or deviation observed in this image?,No,Yes.,,,No,RadImageNet,RadImageNet_9300,CT
+OMNI_000063,Images/000063.png,What is the abnormality present in the image?,Bowel inflammation,Heart arrhythmia,Liver cirrhosis,Eye infection,Bowel inflammation,RadImageNet,RadImageNet_6343,CT
+OMNI_000066,Images/000066.png,What kind of irregularity is depicted in this picture?,Lung cancer,Pleural effusion,Interstitial lung disease,Pulmonary embolism,Interstitial lung disease,RadImageNet,RadImageNet_7436,CT
+OMNI_000067,Images/000067.png,What is the particular pathology visible in this image?,Uterine pathology,Cervical disease,Thyroid disorder,Colon inflammation,Uterine pathology,RadImageNet,RadImageNet_13824,CT
+OMNI_000068,Images/000068.png,What does the image depict in terms of abnormality?,Bowel abnormality,Stomach abnormality,Kidney abnormality,Liver abnormality,Bowel abnormality,RadImageNet,RadImageNet_6028,CT
+OMNI_000069,Images/000069.png,What abnormal finding is observed in the radiographic image?,Growth,Nodule,Tumor,Hematoma,Nodule,RadImageNet,RadImageNet_4201,CT
+OMNI_000070,Images/000070.png,What abnormal finding is identified in the radiographic image?,Congestion,Vascular dilation,Parenchyma destruction,Cellular hyperplasia,Parenchyma destruction,RadImageNet,RadImageNet_4713,CT
+OMNI_000071,Images/000071.png,What is the abnormality present in the image?,Bone fracture,Kidney infection,Bowel inflammation,Gallbladder stones,Bowel inflammation,RadImageNet,RadImageNet_6459,CT
+OMNI_000073,Images/000073.png,What abnormal finding is depicted in the radiograph?,Polyp,Hematoma,Nodule,Mass,Nodule,RadImageNet,RadImageNet_3828,CT
+OMNI_000076,Images/000076.png,What is the word that describes the abnormality shown in the image?,Nodule,Hematoma,Cyst,Abscess,Nodule,RadImageNet,RadImageNet_3633,CT
+OMNI_000077,Images/000077.png,What term describes the anomaly depicted in the image?,Pleural effusion,Nodule formation,Airspace opacity,Pulmonary embolism,Airspace opacity,RadImageNet,RadImageNet_3018,CT
+OMNI_000078,Images/000078.png,What is the particular anomaly evident in this image?,Bladder infection,Pulmonary embolism,Splenic lesion,Gastric ulcer,Splenic lesion,RadImageNet,RadImageNet_13414,CT
+OMNI_000080,Images/000080.png,What type of abnormality is present in this image?,Skin lesion,Intestinal lesion,Liver lesion,Kidney lesion,Liver lesion,RadImageNet,RadImageNet_8018,CT
+OMNI_000081,Images/000081.png,What is the observed anomaly in the image?,Intestinal polyp,Bowel mass,Colon growth,Bowel bulge,Bowel mass,RadImageNet,RadImageNet_6529,CT
+OMNI_000082,Images/000082.png,What is the abnormality present in the image?,Nodule formation,Airspace opacity,Pleural effusion,Lung consolidation,Airspace opacity,RadImageNet,RadImageNet_2992,CT
+OMNI_000084,Images/000084.png,What condition is indicated by the anomaly seen in this image?,Influenza,COVID-19 infection.,Bronchitis,Pulmonary embolism,COVID-19 infection.,SARS-CoV-2 CT-scan,SARS-CoV-2 CT-scan_0439,CT
+OMNI_000090,Images/000090.png,Is there any indication of irregularities in this image?,Yes.,No,,,No,RadImageNet,RadImageNet_9195,CT
+OMNI_000091,Images/000091.png,Is anything abnormal detected in this image?,Yes.,No,,,No,RadImageNet,RadImageNet_10285,CT
+OMNI_000094,Images/000094.png,Is there any anomaly or deviation observable in this picture?,No,Yes.,,,No,RadImageNet,RadImageNet_8246,CT
+OMNI_000095,Images/000095.png,What is the specific type of cancer seen in the image?,Adenocarcinoma of the right upper lobe,Pulmonary embolism in the left lower lobe,Adenocarcinoma of the left lower lobe,Lymphoma of the mediastinum,Adenocarcinoma of the left lower lobe,Chest CT Scan,Chest CT Scan_0327,CT
+OMNI_000096,Images/000096.png,Is anything noticeable in this image that suggests abnormality?,Yes.,No,,,No,RadImageNet,RadImageNet_8768,CT
+OMNI_000097,Images/000097.png,Does this image reveal any abnormalities?,Yes.,No,,,No,RadImageNet,RadImageNet_8333,CT
+OMNI_000100,Images/000100.png,Is there anything wrong detected in this image?,No,Yes.,,,No,RadImageNet,RadImageNet_9588,CT

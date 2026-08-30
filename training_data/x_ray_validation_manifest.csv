@@ -1,0 +1,21 @@
+query_id,image,Question,Option_A,Option_B,Option_C,Option_D,answer,source_dataset,original_question_id,modality
+OMNI_002012,Images/002012.png,Which joint does the bone in the picture come from?,Knee,Middle Interphalangeal,First Distal Interphalangeal,Sacroiliac Articulation,First Distal Interphalangeal,RUS CHN,RUS CHN_0602,X-ray
+OMNI_002022,Images/002022.jpg,What specific condition is illustrated in this lung image?,Pulmonary embolism,Pulmonary fibrosis,Chronic obstructive pulmonary disease (COPD),COVID-19,COVID-19,Chest X-Ray PA,Chest X-Ray PA_0407,X-ray
+OMNI_002031,Images/002031.png,From which joint does the bone in the image originate?,Ulna,Sacrococcygeal Articulation,Proximal Radioulnar,Proximal Interphalangeal,Proximal Interphalangeal,RUS CHN,RUS CHN_1588,X-ray
+OMNI_002034,Images/002034.png,What imaging technique was utilized to capture this picture?,EKG,Ultrasound,X-ray,MRI,X-ray,Covid19 heywhale,Covid19 heywhale_0008,X-ray
+OMNI_002037,Images/002037.png,What is the diagnosis for the patient in this image?,It's NORMAL.,It's Indeterminate,It's Atypical,It's Abnormal,It's NORMAL.,Covid19 heywhale,Covid19 heywhale_0532,X-ray
+OMNI_002044,Images/002044.png,Which joint does the bone in the picture come from?,Middle Interphalangeal,Elbow,Knee,Lumbar Spine,Middle Interphalangeal,RUS CHN,RUS CHN_1310,X-ray
+OMNI_002045,Images/002045.png,What is the body region shown in this image?,Foot,Chest,Groin,Head,Chest,COVIDx CXR-4,COVIDx CXR-4_0130,X-ray
+OMNI_002048,Images/002048.jpeg,What is the specific condition shown in this lung image?,Pneumonia,Sarcoidosis,Pulmonary embolism,Tuberculosis,Pneumonia,Chest X-Ray PA,Chest X-Ray PA_0779,X-ray
+OMNI_002050,Images/002050.png,Which joint does the bone in the picture come from?,Sacroiliac,Carpal-Metacarpal,First Proximal Interphalangeal,Costosternal,First Proximal Interphalangeal,RUS CHN,RUS CHN_1703,X-ray
+OMNI_002056,Images/002056.png,What abnormality can be observed in this image?,Decreased lung capacity,Blocked artery,Inflammation in the lungs,No abnormality detected,No abnormality detected,Mura,Mura_1046,X-ray
+OMNI_002067,Images/002067.png,What modality is used to capture this image?,Angiography,x_ray.,Arthroscopy,Endoscopy,x_ray.,Knee Osteoarthritis,Knee Osteoarthritis_0516,X-ray
+OMNI_002068,Images/002068.png,What irregularity is present in the provided image?,Abnormality imperceptible,Regularity visible,Abnormality present,Normality absent,Abnormality present,Mura,Mura_1437,X-ray
+OMNI_002069,Images/002069.png,What abnormality is present in this image?,Strep throat,COVID-19 positive,Bronchitis,Asthma,COVID-19 positive,COVIDx CXR-4,COVIDx CXR-4_0378,X-ray
+OMNI_002072,Images/002072.png,What abnormality can be observed in this image?,Tumor growth,No abnormality detected,Abnormal growth of cells,Blocked artery,No abnormality detected,Mura,Mura_0909,X-ray
+OMNI_002078,Images/002078.png,Which joint does the bone in the picture come from?,Pubic Symphysis,Pubic Symphysial Junction,Costosternal,Distal Interphalangeal,Distal Interphalangeal,RUS CHN,RUS CHN_0471,X-ray
+OMNI_002079,Images/002079.png,What abnormality is present in this image?,Sinusitis,Tuberculosis,Asthma,COVID-19 positive,COVID-19 positive,COVIDx CXR-4,COVIDx CXR-4_0418,X-ray
+OMNI_002081,Images/002081.png,What imaging technique is employed to obtain this picture?,Bone density scan,Arthroscopy,SPECT scan,x_ray.,x_ray.,Knee Osteoarthritis,Knee Osteoarthritis_0069,X-ray
+OMNI_002087,Images/002087.png,From which joint does the bone in the image originate?,Glenohumeral Connection,Proximal Interphalangeal,Glenohumeral,First Distal Interphalangeal,Proximal Interphalangeal,RUS CHN,RUS CHN_1538,X-ray
+OMNI_002090,Images/002090.png,Which joint does the bone in the picture come from?,Temporomandibular Junction,Ulna.,Pubic Symphysial Junction,Proximal Radioulnar,Ulna.,RUS CHN,RUS CHN_1958,X-ray
+OMNI_002091,Images/002091.png,What was the modality utilized to generate this image?,MRI,X-ray,PET scan,Colonoscopy,X-ray,Mura,Mura_0233,X-ray

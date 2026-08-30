@@ -1,0 +1,19 @@
+query_id,image,question,choice_A,choice_B,choice_C,choice_D
+0001,images/0001.png,What imaging technique was employed to obtain this picture?,CT,Positron emission tomography (PET),Mammogram,X-ray
+0002,images/0002.png,What imaging technique was utilized to acquire this visual representation?,PET scan,Mammography,MRI,X-ray
+0003,images/0003.png,"Which eye is it, the right eye (oculus dexter) or the left eye (oculus sinister)?",left eye,right eye,,
+0004,images/0004/,Which anatomical region is primarily depicted in the provided CT scan?,Abdomen,Chest,Pelvis,Brain
+0005,images/0005/,Does the patient have primary lung cancer? (Malignant),Yes,No,,
+0006,images/0006.nii,Which diagnosis is most consistent with the provided image?,Alzheimer’s disease,Multiple sclerosis,Acute ischemic stroke,Primary brain tumor
+0007,images/0007.nii,Which anatomical region is primarily depicted in the provided MRI volume?,Lungs,Chest,Brain,Stomach
+0008,images/0008.png,Which of the following best describes the provided chest radiograph?,No significant abnormality is identified,Pulmonary edema,Pleural effusion,Pneumothorax
+0009,images/0009.png,Which of the following findings is most consistent with the image?,Pneumothorax,Hernia,Pleural effusion,Cardiomegaly
+0010,images/0010.png,"Based on the appearance of the breast lesion in the ultrasound image, which category best describes it?",Malignant,Benign,Normal breast tissue,Indeterminate lesion
+0011,images/0011.png,Does the image contain annotation/visual marks?,Yes,No,,
+0012,images/0012.jpg,Which diagnosis best describes the skin lesion shown in the dermoscopic image?,Melanoma,Basal cell carcinoma,Melanocytic nevus,Seborrheic keratosis
+0013,images/0013.jpg,Which vascular pattern is present in the dermoscopic image?,Arborizing vessels,Dotted vessels,Linear vessels,Hairpin vessels
+0014,images/0014.jpg,Which retinal condition is most consistent with the OCT image?,Age-related macular degeneration,Diabetic macular edema,Epiretinal membrane,Retinal vein occlusion
+0015,images/0015.jpg,Which of the following retinal abnormalities is suspected in the provided OCT image?,Epiretinal membrane,Macular neovascularization,Retinal artery occlusion,Diabetic macular edema
+0016,images/0016/,Which cellular structure is most prominently represented by the protein localization pattern in the microscopy image?,Endoplasmic reticulum,Plasma membrane,Mitochondria,Golgi apparatus
+0017,images/0017/,Which cellular structure is associated with the protein localization pattern shown in the microscopy image?,Nucleoli,Nuclear membrane,Nuclear bodies,Centrosome
+0018,images/0018.jpg,Which medical device is visible in the provided chest radiograph?,Implanted venous access port (Mediport),Endotracheal tube,Nasogastric tube,Cardiac pacemaker

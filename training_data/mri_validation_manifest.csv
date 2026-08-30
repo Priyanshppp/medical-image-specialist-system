@@ -1,0 +1,21 @@
+query_id,image,Question,Option_A,Option_B,Option_C,Option_D,answer,source_dataset,original_question_id,modality
+OMNI_001010,Images/001010.png,What can be observed in this image?,Labral pathology,Joint inflammation,Muscle strain,Synovial cyst,Labral pathology,RadImageNet,RadImageNet_41105,MRI
+OMNI_001014,Images/001014.png,What is the notable finding in this image?,Brain hemorrhage,Liver cirrhosis,Adrenal pathology.,Pancreatic tumor,Adrenal pathology.,RadImageNet,RadImageNet_29837,MRI
+OMNI_001015,Images/001015.png,What can be observed in this image?,Nerve degeneration,Organ enlargement,White matter changes,Muscle atrophy,White matter changes,RadImageNet,RadImageNet_56674,MRI
+OMNI_001025,Images/001025.png,What can be observed in this image?,Chondral abnormality,Bone density loss,Synovial cyst formation,Meniscal tear,Chondral abnormality,RadImageNet,RadImageNet_34252,MRI
+OMNI_001029,Images/001029.png,Is there any sign of abnormality visible in this image?,"I can't say for sure, but it looks abnormal.","I'm not sure, but there might be a slight abnormality.","No, It's normal.",It's difficult to determine if there is an abnormality based on this image.,"No, It's normal.",RadImageNet,RadImageNet_45914,MRI
+OMNI_001033,Images/001033.png,What can be observed in this image?,Labral pathology,Nerve compression,Muscle strain,Joint inflammation,Labral pathology,RadImageNet,RadImageNet_40856,MRI
+OMNI_001039,Images/001039.png,What is the finding visible in this image?,Muscle strain,Labral pathology,Tendonitis,Cartilage degeneration,Labral pathology,RadImageNet,RadImageNet_41844,MRI
+OMNI_001041,Images/001041.png,What is the observation seen in this image?,Liver lesion,Pancreatic lesion,Gallbladder lesion,Spleen lesion,Pancreatic lesion,RadImageNet,RadImageNet_49857,MRI
+OMNI_001053,Images/001053.png,What can be observed in this image?,Biceps tendon rupture,Plantar fasciitis,MCL pathology,Tennis elbow,MCL pathology,RadImageNet,RadImageNet_43057,MRI
+OMNI_001055,Images/001055.png,What can be observed in this image?,Synovial cyst formation,Joint inflammation,Meniscal tear,Chondral abnormality,Chondral abnormality,RadImageNet,RadImageNet_33450,MRI
+OMNI_001057,Images/001057.png,What can be observed in this image?,Meniscal abnormality,Tendonitis,Nerve impingement,Ligament tear,Meniscal abnormality,RadImageNet,RadImageNet_43996,MRI
+OMNI_001062,Images/001062.png,What does this image depict?,Bone fracture,Meniscal abnormality,Muscle strain,Arthritis,Meniscal abnormality,RadImageNet,RadImageNet_43855,MRI
+OMNI_001067,Images/001067.png,What can be observed in this image?,Nerve compression.,Joint swelling.,Osteoporosis.,Bone inflammation.,Bone inflammation.,RadImageNet,RadImageNet_32195,MRI
+OMNI_001071,Images/001071.png,What can be observed in this image?,Cartilage erosion,Bursitis,Meniscal abnormality,Bone fracture,Meniscal abnormality,RadImageNet,RadImageNet_43778,MRI
+OMNI_001074,Images/001074.png,What can be observed in this image?,Peritonitis,Pulmonary edema,Ascites.,Renal cysts,Ascites.,RadImageNet,RadImageNet_30068,MRI
+OMNI_001083,Images/001083.png,What is the discernible condition in this image?,Cartilage degeneration.,Bone inflammation.,Ligament tear.,Nerve compression.,Bone inflammation.,RadImageNet,RadImageNet_30973,MRI
+OMNI_001089,Images/001089.png,What can be observed in this image?,Inter type of radimageNet dataset.,RadimageNet dataset with no type specified.,Extra type of radimageNet dataset.,Intra type of radimageNet dataset.,Intra type of radimageNet dataset.,RadImageNet,RadImageNet_40250,MRI
+OMNI_001093,Images/001093.png,What is evident or visible in this image?,Dural epidural abn,Cranial intrathecal abnormalities,Vascular subarachnoid abnormalities,Cerebral intracranial abnormalities,Dural epidural abn,RadImageNet,RadImageNet_37917,MRI
+OMNI_001098,Images/001098.png,What finding can be identified in this image?,Acute inflammation,Hemorrhage,Chronic infarct,Normal tissue,Chronic infarct,RadImageNet,RadImageNet_35971,MRI
+OMNI_001099,Images/001099.png,Is there any anomaly or deviation detectable in this image?,"No, It's normal.","I can't say for sure, but it looks abnormal.","I'm not sure, but there might be a slight abnormality.",It's difficult to determine if there is an abnormality based on this image.,"No, It's normal.",RadImageNet,RadImageNet_48227,MRI

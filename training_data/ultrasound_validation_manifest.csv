@@ -1,0 +1,21 @@
+query_id,image,Question,Option_A,Option_B,Option_C,Option_D,answer,source_dataset,original_question_id,modality
+OMNI_007002,Images/007002.png,What part is shown in this ultrasound image?,Right atrium,gallbladder,Brain,Thyroid gland,gallbladder,RadImageNet,RadImageNet_17588,Ultrasound
+OMNI_007003,Images/007003.png,What part is shown in this ultrasound image?,Heart,liver,Lung,Prostate gland,liver,RadImageNet,RadImageNet_19630,Ultrasound
+OMNI_007006,Images/007006.png,What part is shown in this ultrasound image?,Cerebellum,gallbladder,Esophagus,Large intestine,gallbladder,RadImageNet,RadImageNet_17345,Ultrasound
+OMNI_007016,Images/007016.png,What part is shown in this ultrasound image?,Large intestine,Gallbladder,Adrenal gland,thyroid,thyroid,RadImageNet,RadImageNet_22151,Ultrasound
+OMNI_007026,Images/007026.png,What part is shown in this ultrasound image?,Bone,Esophagus,Rectum,pancreas,pancreas,RadImageNet,RadImageNet_21089,Ultrasound
+OMNI_007029,Images/007029.png,What is the organ being depicted in this ultrasound image?,Heart,Appendix,Adrenal gland,kidney,kidney,RadImageNet,RadImageNet_18925,Ultrasound
+OMNI_007030,Images/007030.png,What type of imaging technique was utilized to acquire this image?,Ultrasound,Nuclear medicine scan,X-Ray,Mammography,Ultrasound,RadImageNet,RadImageNet_14563,Ultrasound
+OMNI_007034,Images/007034.png,What part is shown in this ultrasound image?,liver,Uterus,Prostate,Testis,liver,RadImageNet,RadImageNet_19599,Ultrasound
+OMNI_007035,Images/007035.png,What part is shown in this ultrasound image?,spleen,Appendix,Ureter,Prostate gland,spleen,RadImageNet,RadImageNet_22079,Ultrasound
+OMNI_007041,Images/007041.png,What is the organ being depicted in this ultrasound image?,Muscle,thyroid,Gallbladder,Bladder,thyroid,RadImageNet,RadImageNet_23007,Ultrasound
+OMNI_007042,Images/007042.png,What part is shown in this ultrasound image?,Left kidney,Large intestine,gallbladder,Testis,gallbladder,RadImageNet,RadImageNet_17462,Ultrasound
+OMNI_007043,Images/007043.png,Which structure is visible in this ultrasound image?,Lipoma,fibroid,Liver,Pleurisy,fibroid,RadImageNet,RadImageNet_16436,Ultrasound
+OMNI_007047,Images/007047.png,What structure is being depicted in this ultrasound image?,Urinary bladder,pancreas,Duodenum,Bone,pancreas,RadImageNet,RadImageNet_20853,Ultrasound
+OMNI_007062,Images/007062.png,What is the identity of the structure depicted in this ultrasound image?,Breast cyst,Thymus hyperplasia,Adrenal tumor,fibroid,fibroid,RadImageNet,RadImageNet_16778,Ultrasound
+OMNI_007069,Images/007069.png,What part is shown in this ultrasound image?,Ovary,Cerebellum,Bladder,gallbladder,gallbladder,RadImageNet,RadImageNet_16991,Ultrasound
+OMNI_007073,Images/007073.png,What is the structure visible in this ultrasound image?,inferior vena cava,Spleen,Renal cortex,Bladder,inferior vena cava,RadImageNet,RadImageNet_17887,Ultrasound
+OMNI_007079,Images/007079.png,What structure is being depicted in this ultrasound image?,Ovary,gallbladder,Spleen,Esophagus,gallbladder,RadImageNet,RadImageNet_16998,Ultrasound
+OMNI_007080,Images/007080.png,What type of imaging was employed to capture this image?,Photoacoustic Imaging,Digital Subtraction Angiography (DSA),Ultrasound,OCT,Ultrasound,RadImageNet,RadImageNet_14542,Ultrasound
+OMNI_007081,Images/007081.png,What part is shown in this ultrasound image?,Prostate gland,Thyroid,Small intestine,kidney,kidney,RadImageNet,RadImageNet_18606,Ultrasound
+OMNI_007093,Images/007093.png,What is the structure visible in this ultrasound image?,Brain,Cerebral cortex,aorta,Common bile duct,aorta,RadImageNet,RadImageNet_14849,Ultrasound
